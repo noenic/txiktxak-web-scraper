@@ -112,7 +112,7 @@ class Lane():
         
     def getLane(lane_name:str):
         """
-        return the lane Object of the lane url in argument
+        return the lane Object of the lane name in argument
         """
         return Lane(Lane.getLanesName()[lane_name])
 
