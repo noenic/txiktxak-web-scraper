@@ -1,5 +1,5 @@
 # txiktxak-web-scraper
-As txiktxak formerly called chronoplus doesn't give as easy access to its API, you might as well just scratch their website 
+Python module to retrieve stop information and timetables of chronoplus-txiktxak buses with the web-scraping method
 
 
 # How does it work
