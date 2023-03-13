@@ -13,10 +13,10 @@ Be careful, an outbound and an inbound are not the same line, you will have to c
 from txiktxak import *
 
 #Create a lane object from the Lane 34 direction "Anglet Bordes/Troix Croix"
-MyLaneInOneWay=Lane("https://itineraires.txiktxak.fr/fr/horaires/TXIK-TXAK-Nord/Bus/ligne/34/direction/OUTWARD/CHRONOPLUS:34")
+MyLaneInOneWay=Lane("https://itineraires.txiktxak.fr/fr/horaires/TXIK-TXAK-Nord/Bus/ligne/34/direction/OUTWARD/34")
 
 #Create a lane object from the Lane 34 direction "Anglet Chambre d'Amour"
-MyLaneTheOtherWay=Lane("https://itineraires.txiktxak.fr/fr/horaires/TXIK-TXAK-Nord/Bus/ligne/34/direction/RETURN/CHRONOPLUS:34")
+MyLaneTheOtherWay=Lane("https://itineraires.txiktxak.fr/fr/horaires/TXIK-TXAK-Nord/Bus/ligne/34/direction/RETURN/34")
 
 #Print the name of the lane
 print(MyLaneInOneWay,"\n")
