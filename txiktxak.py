@@ -99,12 +99,12 @@ class Lane():
         use the constructor Lane(url) if you want to get a lane that is not in the dict or add it to the dict
         """
         Lanes={
-            "Haut de Bayonne":"https://itineraires.txiktxak.fr/fr/horaires/TXIK-TXAK-Nord/Bus/ligne/T1/direction/RETURN/CHRONOPLUS:T1",
-            "Mairie de Biarritz":"https://itineraires.txiktxak.fr/fr/horaires/TXIK-TXAK-Nord/Bus/ligne/T1/direction/FORWARD/CHRONOPLUS:T1",
-            "Bayonne Marrac":"https://itineraires.txiktxak.fr/fr/horaires/TXIK-TXAK-Nord/Bus/ligne/T2/direction/OUTWARD/CHRONOPLUS:T2",
-            "Tarnos Garròs":"https://itineraires.txiktxak.fr/fr/horaires/TXIK-TXAK-Nord/Bus/ligne/T2/direction/RETURN/CHRONOPLUS:T2#",
-            "Biarritz Aeroport":"https://itineraires.txiktxak.fr/fr/horaires/TXIK-TXAK-Nord/Bus/ligne/4/direction/FORWARD/CHRONOPLUS:4",
-            "Bayonne Saisonton":"https://itineraires.txiktxak.fr/fr/horaires/TXIK-TXAK-Nord/Bus/ligne/4/direction/RETURN/CHRONOPLUS:4",
+            "Haut de Bayonne":"https://itineraires.txiktxak.fr/fr/horaires/TXIK-TXAK-Nord/Bus/ligne/T1/direction/RETURN/T1",
+            "Mairie de Biarritz":"https://itineraires.txiktxak.fr/fr/horaires/TXIK-TXAK-Nord/Bus/ligne/T1/direction/FORWARD/T1",
+            "Bayonne Marrac":"https://itineraires.txiktxak.fr/fr/horaires/TXIK-TXAK-Nord/Bus/ligne/T2/direction/OUTWARD/T2",
+            "Tarnos Garròs":"https://itineraires.txiktxak.fr/fr/horaires/TXIK-TXAK-Nord/Bus/ligne/T2/direction/RETURN/T2",
+            "Biarritz Aeroport":"https://itineraires.txiktxak.fr/fr/horaires/TXIK-TXAK-Nord/Bus/ligne/4/direction/FORWARD/4",
+            "Bayonne Saisonton":"https://itineraires.txiktxak.fr/fr/horaires/TXIK-TXAK-Nord/Bus/ligne/4/direction/RETURN/4",
             #Follow this pattern to add more lanes to the dict
             #Because it as to be done manually and there is a lot of lanes and don't have the time to do it
         }
